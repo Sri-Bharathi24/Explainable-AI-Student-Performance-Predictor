@@ -6,10 +6,6 @@ This project uses a Decision Tree Classifier to predict student performance base
 - Study Hours per Day
 - Internal Marks
 
-## Model Output Example
-
-![Output](output.png)
-
 ## Technologies Used
 
 - Python
@@ -27,5 +23,7 @@ The Decision Tree provides explainable rules such as:
 
 This makes the model transparent and easy to interpret.
 
-![Model Output](output.png)
+ ![Model Output](https://github.com/user-attachments/assets/fb796329-424b-4ca6-8091-b90ec3f5d620)
+
+
 
